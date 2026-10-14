@@ -35,5 +35,8 @@ _ReSharper*/
 scratch/
 *.zip
 generate_doc.py
+*.docx
+~$*
+
 
 
