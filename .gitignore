@@ -34,4 +34,6 @@ _ReSharper*/
 *.temp
 scratch/
 *.zip
+generate_doc.py
+
 
